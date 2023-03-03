@@ -1,4 +1,4 @@
-This is a repository containing triangle surface meshes in STL format. 
+Triangle surface meshes of 3D shapes (in .STL format). Includes common benchmark models and more advanced aerospace models.
 
 # Models
 
