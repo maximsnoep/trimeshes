@@ -1,4 +1,4 @@
-Triangle surface meshes of 3D shapes (in .STL format). Includes common benchmark models and more advanced aerospace models.
+Triangle surface meshes of 3D shapes (in .STL format). Includes common benchmark models and uncommon models.
 
 # Models
 
