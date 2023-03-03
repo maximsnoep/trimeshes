@@ -26,6 +26,7 @@ Triangle surface meshes of 3D shapes (in .STL format). Includes common benchmark
 | [rockerarm](models/rockerarm.stl)     | 40.000  | 120.000 | 80.000  | 1 |
 | [2-torus](models/2-torus.stl)         | 6.622   | 19.872  | 13.248  | 2 |
 | [3-torus](models/3-torus.stl)         | 1.753   | 5.271   | 3.514   | 3 |
+| [pittsburgh](models/pittsburgh.stl)   | 75.081  | 225.225 | 150.170 | 3 |
 | [fertility](models/fertility.stl)     | 19.994  | 60.000  | 40.000  | 4 |
 
 
