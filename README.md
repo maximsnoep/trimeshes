@@ -24,7 +24,7 @@ Triangle surface meshes of 3D shapes (in .STL format). Includes common benchmark
 | [kitten](models/kitten.stl)                           | 80.000    | 240.000 | 160.000    | 0     |
 | [bimba](models/bimba.stl)                             | 112.455   | 337.359 | 224.906    | 0     |
 | [igea](models/igea.stl)                               | 134.345   | 403.029 | 268.686    | 0     |
-| [f6_wing_symmetric](models/f6_wing_symmetryc.stl)     | 151.316   | 453.942 | 302.628    | 0     |
+| [f6_wing_symmetric](models/f6_wing_symmetric.stl)     | 151.316   | 453.942 | 302.628    | 0     |
 | [f6_wing](models/f6_wing.stl)                         | 153.299   | 459.891 | 306.594    | 0     |
 | [f6_wing_nohorn](models/f6_wing_nohorn.stl)           | 154.821   | 464.457 | 309.638    | 0     |
 | [rockerarm](models/rockerarm.stl)                     | 40.000    | 120.000 | 80.000     | 1     |
