@@ -1,4 +1,4 @@
-Triangle surface meshes of 3D shapes (in .STL format). Includes common benchmark models and uncommon models.
+Triangle surface meshes of 3D shapes (in .STL format). All meshes are watertight and consist of exactly 1 component. Includes common benchmark models and uncommon models.
 
 # Models
 
@@ -13,6 +13,7 @@ Triangle surface meshes of 3D shapes (in .STL format). Includes common benchmark
 | [fandisk](models/fandisk.stl)                         | 6.475     | 19.419  | 12.946     | 0     |
 | [cheburashka](models/cheburashka.stl)                 | 6.669     | 20.001  | 13.334     | 0     |
 | [horse](models/horse.stl)                             | 8.457     | 25.365  | 16.910     | 0     |
+| [dragon](models/dragon.stl)                           | 10.000    | 30.000  | 20.000     | 0     |
 | [beethoven](models/beethoven.stl)                     | 10.426    | 31.272  | 20.848     | 0     |
 | [hand](models/hand.stl)                               | 20.002    | 60.000  | 40.000     | 0     |
 | [bunny](models/bunny.stl)                             | 34.817    | 104.445 | 69.630     | 0     |
